@@ -29,14 +29,14 @@ It may require you to add some libraries.
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 //WiFi名称与密码设置
-const char* ssid = "PAICL";
-const char* password = "paicllll";
+const char* ssid = "Here is your WiFi's name";
+const char* password = "Here is your WiFi's password";
 
 //实时天气API接口调用及设置
-String apiKey = "36d5f0757d1cf5fb545c165d778e01d5";
-String city = "zhuhai";
-String country = "China";
-String url = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "," + country + "&appid=" + apiKey;
+String apiKey = "Here is a API, and you need to seiting you weather API";
+String city = "Here is you local city";
+String country = "Here is your country";
+String url = "Here is you weather API website" + city + "," + country + "&appid=" + apiKey;
 
 //实时时间调用
 WiFiUDP ntpUDP;
