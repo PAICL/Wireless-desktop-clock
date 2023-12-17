@@ -3,7 +3,7 @@ Wireless desktop clock.
 
 There is nothing here :(
 I'm still learning how to publish a good project.
-Forgive me for this paper may be a bit oversimplified。
+Forgive me for this paper may be a bit oversimplified.
 The demoboard is Seeed XIAO ESP32-S3.
 programming in Ardino IDE.
 It may require you to add some libraries.
