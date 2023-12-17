@@ -33,10 +33,10 @@ const char* ssid = "Here is your WiFi's name";
 const char* password = "Here is your WiFi's password";
 
 //实时天气API接口调用及设置
-String apiKey = "Here is a API, and you need to seiting you weather API";
-String city = "Here is you local city";
+String apiKey = "Here is a API, and you need to setting you weather API";
+String city = "Here is your local city";
 String country = "Here is your country";
-String url = "Here is you weather API website" + city + "," + country + "&appid=" + apiKey;
+String url = "Here is your setting weather API website" + city + "," + country + "&appid=" + apiKey;
 
 //实时时间调用
 WiFiUDP ntpUDP;
