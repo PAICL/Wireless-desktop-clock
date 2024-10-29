@@ -8,7 +8,7 @@ The demoboard is Seeed XIAO ESP32-S3.
 programming in Ardino IDE.
 It may require you to add some libraries.
 
-[IMAGE](https://github.com/PAICL/Wireless-desktop-clock/blob/main/image.png)
+[image.png](https://github.com/PAICL/Wireless-desktop-clock/blob/main/image.png)
 
 
 ---
